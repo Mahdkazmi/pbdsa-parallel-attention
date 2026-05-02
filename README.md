@@ -93,7 +93,7 @@ A major experimental finding is that naive benchmarking of parallel algorithms c
 ## How to Run
 
 1. Clone the repository:
-   git clone https://github.com/your-username/pbdsa-parallel-attention.git
+   git clone https://github.com/Mahdkazmi/pbdsa-parallel-attention.git
 
 2. Navigate to the project directory:
    cd pbdsa-parallel-attention
